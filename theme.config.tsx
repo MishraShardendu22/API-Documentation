@@ -1,22 +1,29 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import React from 'react';
+import { DocsThemeConfig } from 'nextra-theme-docs';
 
 const config: DocsThemeConfig = {
   logo: (
     <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
       <img
-        src="https://imgs.search.brave.com/v7jnCTZ16JfInKLLZ-8JRUKlME8sUO-hnFyus0A0lBQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk2L0RyYWdvbl9i/YWxsLnN2Zw"
-        alt="Dragon Ball Logo"
-        style={{ height: '40px', width: 'auto' }}
+        src="https://avatars.githubusercontent.com/u/175409658?s=400&u=03630c626a5b42c91532e1ff0a7f20ff623cb602&v=4"
+        alt="Image of The Creator"
+        style={{
+          height: '40px',
+          width: '40px', // Set a fixed width for a perfect circle
+          borderRadius: '50%', // Make the image circular
+          objectFit: 'cover', // Ensure the image covers the circle properly
+        }}
       />
-      <span style={{ fontSize: '1.2rem', fontWeight: 'bold', color: '#f56565' }}>Dragon Ball - API</span>
+      <span style={{ fontSize: '1.2rem', fontWeight: 'bold', color: '#f56565' }}>
+        Application Programming Interface - Hub
+      </span>
     </div>
   ),
   project: {
-    link: 'https://github.com/MishraShardendu22/Dragon-Ball-Api.git',
+    link: 'https://github.com/MishraShardendu22/API-Documentation',
   },
   chat: {
-    link: 'https://discord.gg/5fGZsX68',
+    link: 'https://discord.com/users/shardendumishra22',
   },
   footer: {
     text: 'IIIT Dharwad - Shardendu Mishra, Computer Science Engineering',
@@ -28,7 +35,6 @@ const config: DocsThemeConfig = {
     text: null,
   },
   gitTimestamp: <span>{new Date().toLocaleString()}</span>,
+};
 
-}
-
-export default config
+export default config;
