@@ -1,6 +1,5 @@
 # API Hub
-
-[GitHub Project Account](https://github.com/MishraShardendu22) | [GitHub Project Account](https://github.com/MishraShardendu22) | [LinkedIn](https://www.linkedin.com/in/shardendumishra22)
+## [Visit My Project Account For More !!](https://github.com/MishraShardendu22)
 
 API Hub is a comprehensive application that showcases two different types of APIs: a **Project Management System** using **SOAP** and a **Dragon Ball API** using **REST**. This project demonstrates the versatility of working with both SOAP and REST APIs in a single application.
 
