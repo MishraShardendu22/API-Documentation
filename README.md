@@ -1,27 +1,29 @@
 # API Hub
 
+[GitHub Project Account](https://github.com/MishraShardendu22) | [GitHub Project Account](https://github.com/MishraShardendu22) | [LinkedIn](https://www.linkedin.com/in/shardendumishra22)
+
 API Hub is a comprehensive application that showcases two different types of APIs: a **Project Management System** using **SOAP** and a **Dragon Ball API** using **REST**. This project demonstrates the versatility of working with both SOAP and REST APIs in a single application.
 
 ## Technologies Used
 
 ### REST API
-- ![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white)
-- ![Render](https://img.shields.io/badge/Render-5B24E7?style=for-the-badge&logo=render&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white) - Documentation framework for Next.js.
+- ![Render](https://img.shields.io/badge/Render-5B24E7?style=for-the-badge&logo=render&logoColor=white) - Cloud platform for hosting applications.
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) - React framework for building server-rendered applications.
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) - Utility-first CSS framework for rapid UI development.
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) - Typed superset of JavaScript for building robust applications.
+- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) - Web application framework for Node.js.
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) - JavaScript library for building user interfaces.
 
 ### SOAP API
-- ![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white)
-- ![Render](https://img.shields.io/badge/Render-5B24E7?style=for-the-badge&logo=render&logoColor=white)
-- ![Apollo](https://img.shields.io/badge/Apollo-311C3F?style=for-the-badge&logo=apollo&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![Nextra](https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white) - Documentation framework for Next.js.
+- ![Render](https://img.shields.io/badge/Render-5B24E7?style=for-the-badge&logo=render&logoColor=white) - Cloud platform for hosting applications.
+- ![Apollo](https://img.shields.io/badge/Apollo-311C3F?style=for-the-badge&logo=apollo&logoColor=white) - GraphQL client for managing data in applications.
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) - Query language for APIs and runtime for executing those queries.
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Programming language for web development.
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) - Utility-first CSS framework for rapid UI development.
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) - Front-end framework for developing responsive websites.
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) - Fast build tool and development server for modern web projects.
 
 ## Features
 
