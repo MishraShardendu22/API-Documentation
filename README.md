@@ -1,7 +1,5 @@
 # API Hub
 
-![API Hub Logo](https://example.com/logo.png)
-
 API Hub is a comprehensive application that showcases two different types of APIs: a **Project Management System** using **SOAP** and a **Dragon Ball API** using **REST**. This project demonstrates the versatility of working with both SOAP and REST APIs in a single application.
 
 ## Technologies Used
