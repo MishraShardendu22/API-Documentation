@@ -1,6 +1,7 @@
 import { DocsThemeConfig } from 'nextra-theme-docs/.';
 import React, { useState, useEffect } from 'react';
 
+
 const config: DocsThemeConfig = {
   logo: (
     <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexDirection: 'column' }}>
